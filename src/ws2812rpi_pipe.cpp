@@ -1,3 +1,12 @@
+/*
+ * FILE:          src/ws2812rpi_pipe.cpp
+ * Author:        KaliAssistant <work.kaliassistant.github@gmail.com>
+ * URL:           https://github.com/KaliAssistant/ws2812rpi_spi
+ * Licence        GNU/GPLv3.0
+ *
+ */
+
+
 #include <iostream>
 #include <string>
 #include <stdint.h>
