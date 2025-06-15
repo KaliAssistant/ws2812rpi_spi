@@ -1,3 +1,30 @@
+# repo build files=====
+
+bin/
+include/INIReader.h
+include/bcm2835.h
+include/ini.h
+lib/bcm2835-1.75/Makefile
+lib/bcm2835-1.75/config.h
+lib/bcm2835-1.75/config.log
+lib/bcm2835-1.75/config.status
+lib/bcm2835-1.75/doc/Doxyfile
+lib/bcm2835-1.75/doc/Makefile
+lib/bcm2835-1.75/doc/doxyfile.stamp
+lib/bcm2835-1.75/doc/html/
+lib/bcm2835-1.75/src/.deps/
+lib/bcm2835-1.75/src/Makefile
+lib/bcm2835-1.75/src/bcm2835.o
+lib/bcm2835-1.75/src/libbcm2835.a
+lib/bcm2835-1.75/stamp-h1
+lib/inih-r60/INIReader.o
+lib/inih-r60/ini.o
+lib/inih-r60/libINIReader.a
+lib/inih-r60/libinih.a
+lib/libINIReader.a
+lib/libbcm2835.a
+lib/libinih.a
+
 # Apple =============
 .DS_Store
 .AppleDouble
