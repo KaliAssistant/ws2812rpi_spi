@@ -2,7 +2,7 @@
 Control WS2812B NeoPexil LED Using BCM2835-SPI on Raspberry Pi Zero 2W
 
 ## Build
-Run `build.sh`,  build exec in  `bin` dir.
+Run `make`,  build exec in  `bin` dir.
 
 ## Licensing
 
